@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hieuttmmo-entraid-mcp-server-badge.png)](https://mseep.ai/app/hieuttmmo-entraid-mcp-server)
+
 # EntraID MCP Server (Microsoft Graph FastMCP)
 
 This project provides a modular, resource-oriented FastMCP server for interacting with Microsoft Graph API. It is designed for extensibility, maintainability, and security, supporting advanced queries for users, sign-in logs, MFA status, and privileged users.
